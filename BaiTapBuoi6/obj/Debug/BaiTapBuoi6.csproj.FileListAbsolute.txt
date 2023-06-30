@@ -1,0 +1,8 @@
+D:\HB-Academy\Baitap\BaiTapBuoi6\BaiTapBuoi6\bin\Debug\BaiTapBuoi6.exe.config
+D:\HB-Academy\Baitap\BaiTapBuoi6\BaiTapBuoi6\bin\Debug\BaiTapBuoi6.exe
+D:\HB-Academy\Baitap\BaiTapBuoi6\BaiTapBuoi6\bin\Debug\BaiTapBuoi6.pdb
+D:\HB-Academy\Baitap\BaiTapBuoi6\BaiTapBuoi6\obj\Debug\BaiTapBuoi6.csproj.AssemblyReference.cache
+D:\HB-Academy\Baitap\BaiTapBuoi6\BaiTapBuoi6\obj\Debug\BaiTapBuoi6.csproj.SuggestedBindingRedirects.cache
+D:\HB-Academy\Baitap\BaiTapBuoi6\BaiTapBuoi6\obj\Debug\BaiTapBuoi6.csproj.CoreCompileInputs.cache
+D:\HB-Academy\Baitap\BaiTapBuoi6\BaiTapBuoi6\obj\Debug\BaiTapBuoi6.exe
+D:\HB-Academy\Baitap\BaiTapBuoi6\BaiTapBuoi6\obj\Debug\BaiTapBuoi6.pdb
